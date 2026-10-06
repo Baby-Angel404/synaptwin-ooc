@@ -1,0 +1,17 @@
+{
+  "id": "simonmarc/synaptwin-ooc-neural-organ-on-chip",
+  "title": "SynapTwin-OoC: AI Neural Organ-on-Chip Suite",
+  "code_file": "synaptwin_ooc_pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [
+    "ai-4-s-open-innovation-artificial-intelligence-for-life-scien"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

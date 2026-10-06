@@ -18,7 +18,7 @@
 
 ## 💻 2. Public Code Repository (Required)
 
-* **GitHub Repository Link:** [https://github.com/your-username/synaptwin-ooc](https://github.com/your-username/synaptwin-ooc) *(or Kaggle Notebook)*  
+* **Official Public Notebook Repository:** [https://www.kaggle.com/code/simonmarc/synaptwin-ooc-ai-neural-organ-on-chip-suite](https://www.kaggle.com/code/simonmarc/synaptwin-ooc-ai-neural-organ-on-chip-suite)  
 * **Standalone Single-Command Execution:** `python demo.py --compound "Paclitaxel (Taxol)" --dose 3.5`  
 * **Interactive Web App:** `streamlit run web_app/app.py`  
 * **Reproducibility Guarantee:** 100% reproducible on standard CPU and GPU hardware without proprietary dependencies or commercial API keys.
