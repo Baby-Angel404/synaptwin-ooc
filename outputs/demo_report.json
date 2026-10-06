@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "system": "SynapTwin-OoC AI BioLab Suite v1.0",
+    "compound_name": "Paclitaxel (Taxol)",
+    "concentration_um": 3.5,
+    "device": "cpu",
+    "latency_ms": 1726.71
+  },
+  "morphometry": {
+    "soma_count": 2,
+    "mean_soma_area_um2": 12.46,
+    "soma_roundness_index": 1.0,
+    "total_neurite_length_um": 1625.0,
+    "axon_chamber_outgrowth_um": 329.55,
+    "axon_penetration_ratio": 0.203,
+    "axon_guidance_index": 1.203,
+    "cytoskeletal_fragmentation_index": 0.206,
+    "synaptic_puncta_count": 0,
+    "synaptic_puncta_per_soma": 0.0,
+    "circuit_connectivity_score": 47.0
+  },
+  "toxicity_screening": {
+    "compound_name": "Paclitaxel (Taxol)",
+    "tested_concentration_um": 3.5,
+    "predicted_class": "Moderate Retraction / Neuropathy",
+    "toxicity_grade": 1,
+    "viability_index": 0.625,
+    "confidence_score": 0.754,
+    "class_probabilities": {
+      "Safe": 0.118,
+      "Moderate_Neuropathy": 0.754,
+      "Severe_Neurodegeneration": 0.128
+    },
+    "estimated_ic50": "~ 6.30 \u00b5M",
+    "estimated_ic50_numeric": 6.3,
+    "identified_mechanisms": [
+      "Somatic Apoptosis & Detachment"
+    ],
+    "risk_color": "#FFC107"
+  },
+  "translation_metrics": {
+    "DAPI_PSNR": 30.73643997092505,
+    "DAPI_SSIM": 0.6719188993362125,
+    "DAPI_PCC": 0.09175401837737467,
+    "DAPI_MAE": 0.010287577286362648,
+    "Tubulin_PSNR": 19.95512604882019,
+    "Tubulin_SSIM": 0.5299829458552197,
+    "Tubulin_PCC": 0.2739441763282231,
+    "Tubulin_MAE": 0.040709756314754486,
+    "Synaptophysin_PSNR": 34.45400845798908,
+    "Synaptophysin_SSIM": 0.6738765674625715,
+    "Synaptophysin_PCC": 0.0006660596557252315,
+    "Synaptophysin_MAE": 0.011388265527784824,
+    "Mean_PSNR": 28.381858159244775,
+    "Mean_SSIM": 0.6252594708846679,
+    "Mean_PCC": 0.12212141812044101
+  },
+  "virtual_fluorescence_channels": {
+    "Ch0_DAPI_mean": 0.003003817517310381,
+    "Ch1_Tubulin_mean": 0.02768678404390812,
+    "Ch2_Synaptophysin_mean": 0.00759050203487277
+  }
+}
