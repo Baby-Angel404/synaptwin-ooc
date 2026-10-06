@@ -96,7 +96,7 @@ Evaluated across standard biological reference datasets (**BBBC021**, **RxRx1**,
 ### 1. Clone Repository & Setup Environment
 
 ```bash
-git clone https://github.com/your-username/synaptwin-ooc.git
+git clone https://github.com/skamy64-ux/synaptwin-ooc.git
 cd synaptwin-ooc
 
 # Create Python environment
