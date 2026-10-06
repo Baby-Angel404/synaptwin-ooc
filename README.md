@@ -12,6 +12,15 @@
 
 ---
 
+## 🎬 Official 1080p Demo Video Presentation
+
+An official 4.3-minute Full HD presentation with studio-grade neural voiceover narration is included in this repository:
+* **Direct Video File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) (Full HD 1080p, 4.37 min, 6.3 MB)
+* **Storyboard & Full Script:** [`DEMO_VIDEO_STORYBOARD.md`](DEMO_VIDEO_STORYBOARD.md)
+* **Video Generation Source:** [`scripts/make_demo_video.py`](scripts/make_demo_video.py)
+
+---
+
 ## 📌 Executive Summary
 
 **Organ-on-a-Chip (OoC)** microphysiological systems replicate human organ-level microenvironments with unprecedented fidelity. However, conventional biological evaluation pipelines face critical physical bottlenecks:

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "system": "SynapTwin-OoC AI BioLab Suite v1.0",
+    "compound_name": "Vehicle (DMSO 0.1%)",
+    "concentration_um": 0.0,
+    "device": "cpu",
+    "latency_ms": 4849.7
+  },
+  "morphometry": {
+    "soma_count": 36,
+    "mean_soma_area_um2": 50.64,
+    "soma_roundness_index": 0.989,
+    "total_neurite_length_um": 2183.35,
+    "axon_chamber_outgrowth_um": 379.6,
+    "axon_penetration_ratio": 0.174,
+    "axon_guidance_index": 0.822,
+    "cytoskeletal_fragmentation_index": 0.085,
+    "synaptic_puncta_count": 1,
+    "synaptic_puncta_per_soma": 0.03,
+    "circuit_connectivity_score": 47.4
+  },
+  "toxicity_screening": {
+    "compound_name": "Vehicle (DMSO 0.1%)",
+    "tested_concentration_um": 0.0,
+    "predicted_class": "Safe / Non-Toxic",
+    "toxicity_grade": 0,
+    "viability_index": 0.85,
+    "confidence_score": 0.882,
+    "class_probabilities": {
+      "Safe": 0.882,
+      "Moderate_Neuropathy": 0.089,
+      "Severe_Neurodegeneration": 0.03
+    },
+    "estimated_ic50": "> 100 \u00b5M (Non-toxic)",
+    "estimated_ic50_numeric": 100.0,
+    "identified_mechanisms": [
+      "Physiologically Intact Synaptic Circuit"
+    ],
+    "risk_color": "#28A745"
+  },
+  "translation_metrics": {
+    "DAPI_PSNR": 26.502155907088884,
+    "DAPI_SSIM": 0.5281216844784572,
+    "DAPI_PCC": 0.6685859084123297,
+    "DAPI_MAE": 0.022057104855775833,
+    "Tubulin_PSNR": 13.955906076650662,
+    "Tubulin_SSIM": 0.32860537884455154,
+    "Tubulin_PCC": 0.40636901797273317,
+    "Tubulin_MAE": 0.09481736272573471,
+    "Synaptophysin_PSNR": 16.747569021305985,
+    "Synaptophysin_SSIM": 0.3005315220098724,
+    "Synaptophysin_PCC": 0.23292901036375624,
+    "Synaptophysin_MAE": 0.057098012417554855,
+    "Mean_PSNR": 19.06854366834851,
+    "Mean_SSIM": 0.3857528617776271,
+    "Mean_PCC": 0.4359613122496064
+  },
+  "virtual_fluorescence_channels": {
+    "Ch0_DAPI_mean": 0.02459757775068283,
+    "Ch1_Tubulin_mean": 0.052053097635507584,
+    "Ch2_Synaptophysin_mean": 0.034416474401950836
+  }
+}

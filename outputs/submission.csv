@@ -1,0 +1,6 @@
+compound,predicted_tier,viability,estimated_ic50_um
+Vehicle,Safe,0.85,100.0
+BDNF,Safe,0.85,100.0
+Paclitaxel,Moderate,0.625,6.3
+Cisplatin,Severe,0.41,4.5
+Rotenone,Severe,0.35,0.45
