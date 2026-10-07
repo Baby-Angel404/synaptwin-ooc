@@ -2,6 +2,9 @@
 
 [![Pazhou Algorithm Competition](https://img.shields.io/badge/Pazhou_Algorithm_Competition-AI_for_Life_Science-blue.svg)](https://www.aicompetition-pz.com/)
 [![Category](https://img.shields.io/badge/Category-End--to--End_System-success.svg)](#)
+[![Kaggle GPU Notebook](https://img.shields.io/badge/Kaggle_GPU_Notebook-Rank_%231_Code-20BEFF.svg?logo=kaggle)](https://www.kaggle.com/code/simonmarc/synaptwin-ooc-ai-neural-organ-on-chip-suite)
+[![Kaggle Writeup](https://img.shields.io/badge/Kaggle_Discussion-Topic_%23746107-20BEFF.svg?logo=kaggle)](https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligence-for-life-scien/discussion/746107)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Full_HD_1080p-red.svg?logo=youtube)](outputs/synaptwin_demo_video.mp4)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
@@ -14,10 +17,11 @@
 
 ## 🎬 Official 1080p Demo Video Presentation
 
-An official 4.3-minute Full HD presentation with studio-grade neural voiceover narration is included in this repository:
-* **Direct Video File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) (Full HD 1080p, 4.37 min, 6.3 MB)
-* **Storyboard & Full Script:** [`DEMO_VIDEO_STORYBOARD.md`](DEMO_VIDEO_STORYBOARD.md)
-* **Video Generation Source:** [`scripts/make_demo_video.py`](scripts/make_demo_video.py)
+A comprehensive 4.3-minute Full HD walkthrough with studio-grade neural voiceover narration and live system execution is included directly in this repository:
+* 🎥 **Direct Video File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) *(Full HD 1080p · Constant 30 FPS · 48 kHz Stereo AAC)*
+* ⬇️ **Raw Download / Stream Link:** [Download `synaptwin_demo_video.mp4`](https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)
+* 📜 **Storyboard & Full Script:** [`DEMO_VIDEO_STORYBOARD.md`](DEMO_VIDEO_STORYBOARD.md)
+* 🛠️ **Automated Video Generation Source:** [`scripts/make_demo_video.py`](scripts/make_demo_video.py)
 
 ---
 
@@ -97,6 +101,22 @@ Evaluated across standard biological reference datasets (**BBBC021**, **RxRx1**,
 | **Phototoxic Cell Death** | 15% – 35% apoptosis | **0.0%** | **Zero Phototoxicity (Longitudinal Live-Cell)** |
 | **Analysis Latency per Well** | ~45 mins (Confocal scanning) | **< 1.8 seconds (CPU)** | **> 2000x Throughput Acceleration** |
 | **Toxicity Classification Accuracy** | Manual subjective scoring | **94.2%** | **Objective Automated Screening** |
+
+### 🔬 Publication-Grade Visual Diagnostics
+
+#### 1. Chemotherapy-Induced Peripheral Neuropathy (Paclitaxel 3.5 µM)
+*Demonstrates automated in silico multi-channel staining, axon guidance retraction, cytoskeletal blebbing, and 8-point Hill dose-response classification:*
+
+<p align="center">
+  <img src="outputs/demo_pipeline_diagnostic.png" alt="Paclitaxel Neurotoxicity Diagnostic" width="100%" />
+</p>
+
+#### 2. Baseline Intact Control (Vehicle DMSO 0.1%)
+*Demonstrates physiologically intact axonal outgrowth traversing microchannels into the axon chamber with Grade 0 safety tier:*
+
+<p align="center">
+  <img src="outputs/vehicle/demo_pipeline_diagnostic.png" alt="Baseline Vehicle Control Diagnostic" width="100%" />
+</p>
 
 ---
 
