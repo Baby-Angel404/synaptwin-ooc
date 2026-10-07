@@ -9,7 +9,8 @@
 
 ## 🎥 1. Demo Video (Required)
 
-* **Public Demo Video Link:** [https://www.youtube.com/watch?v=synaptwin-ooc-demo](https://www.youtube.com/watch?v=synaptwin-ooc-demo) *(or Loom / Kaggle Attachment)*  
+* **Public Demo Video Link:** [https://github.com/skamy64-ux/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4](https://github.com/skamy64-ux/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4) *(Full HD 1080p, Constant 30 FPS, Stereo AAC)*  
+* **Raw Direct Stream Link:** [https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4](https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)  
 * **Duration:** 4 minutes 45 seconds (Strictly within the 5-minute limit)  
 * **Detailed Storyboard & Script:** See [DEMO_VIDEO_STORYBOARD.md](DEMO_VIDEO_STORYBOARD.md)  
 * **Content:** Live walkthrough of the full five-stage operational system, showing label-free brightfield acquisition, real-time in silico virtual fluorescence synthesis, quantitative microfluidic axon morphometry, and multi-scale drug neurotoxicity screening.
