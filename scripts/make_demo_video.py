@@ -475,9 +475,13 @@ def make_video_clips():
             "ffmpeg", "-y",
             "-loop", "1", "-i", sc["image"],
             "-i", sc["audio"],
-            "-c:v", "libx264", "-tune", "stillimage", "-c:a", "aac", "-b:a", "192k",
-            "-pix_fmt", "yuv420p", "-shortest",
+            "-c:v", "libx264", "-tune", "stillimage",
+            "-r", "30", "-g", "60", "-keyint_min", "30",
+            "-pix_fmt", "yuv420p",
+            "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2",
+            "-shortest",
             "-t", str(duration),
+            "-movflags", "+faststart",
             clip_path
         ]
         subprocess.check_call(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -496,6 +500,7 @@ def concatenate_clips(clip_files):
         "-f", "concat", "-safe", "0",
         "-i", list_file,
         "-c", "copy",
+        "-movflags", "+faststart",
         FINAL_VIDEO
     ]
     subprocess.check_call(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
