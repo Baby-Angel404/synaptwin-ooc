@@ -413,7 +413,7 @@ def render_scene8(sc):
             color=ACCENT_GREEN, ha="center")
 
     links = [
-        ("🌐 GitHub Repository", "https://github.com/skamy64-ux/synaptwin-ooc",
+        ("🌐 GitHub Repository", "https://github.com/Baby-Angel404/synaptwin-ooc",
          "Modular PyTorch package, 7/7 unit tests, full reproduction scripts"),
         ("⚡ Kaggle Cloud GPU Kernel", "kaggle.com/code/simonmarc/synaptwin-ooc-ai-neural-organ-on-chip-suite",
          "Ranked #1 in Code tab, interactive GPU execution pipeline"),

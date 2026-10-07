@@ -10,8 +10,8 @@
 ## 🎥 1. Demo Video (Required)
 
 * **Official YouTube Video Link:** [https://youtu.be/2iGEupLtVck](https://youtu.be/2iGEupLtVck) *(Full HD 1080p Walkthrough)*  
-* **GitHub Video Mirror:** [https://github.com/skamy64-ux/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4](https://github.com/skamy64-ux/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4)  
-* **Direct Raw MP4 Download:** [https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4](https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)  
+* **GitHub Video Mirror:** [https://github.com/Baby-Angel404/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4](https://github.com/Baby-Angel404/synaptwin-ooc/blob/main/outputs/synaptwin_demo_video.mp4)  
+* **Direct Raw MP4 Download:** [https://github.com/Baby-Angel404/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4](https://github.com/Baby-Angel404/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)  
 * **Duration:** 4 minutes 22 seconds (Strictly within the 5-minute competition limit)  
 * **Detailed Storyboard & Script:** See [DEMO_VIDEO_STORYBOARD.md](DEMO_VIDEO_STORYBOARD.md)  
 * **Content:** Live walkthrough of the full five-stage operational system, showing label-free brightfield acquisition, real-time in silico virtual fluorescence synthesis, quantitative microfluidic axon morphometry, and multi-scale drug neurotoxicity screening.

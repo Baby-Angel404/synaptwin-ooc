@@ -20,7 +20,7 @@
 A comprehensive 4.3-minute Full HD walkthrough with studio-grade neural voiceover narration and live system execution is available on YouTube and mirrored in this repository:
 * 🔴 **Official YouTube Video:** [https://youtu.be/2iGEupLtVck](https://youtu.be/2iGEupLtVck) *(Full HD 1080p Walkthrough)*
 * 🎥 **GitHub Mirror File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) *(Constant 30 FPS · 48 kHz Stereo AAC)*
-* ⬇️ **Raw Download / Stream Link:** [Download `synaptwin_demo_video.mp4`](https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)
+* ⬇️ **Raw Download / Stream Link:** [Download `synaptwin_demo_video.mp4`](https://github.com/Baby-Angel404/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)
 * 📜 **Storyboard & Full Script:** [`DEMO_VIDEO_STORYBOARD.md`](DEMO_VIDEO_STORYBOARD.md)
 * 🛠️ **Automated Video Generation Source:** [`scripts/make_demo_video.py`](scripts/make_demo_video.py)
 
@@ -126,7 +126,7 @@ Evaluated across standard biological reference datasets (**BBBC021**, **RxRx1**,
 ### 1. Clone Repository & Setup Environment
 
 ```bash
-git clone https://github.com/skamy64-ux/synaptwin-ooc.git
+git clone https://github.com/Baby-Angel404/synaptwin-ooc.git
 cd synaptwin-ooc
 
 # Create Python environment
