@@ -2,9 +2,9 @@
 
 [![Pazhou Algorithm Competition](https://img.shields.io/badge/Pazhou_Algorithm_Competition-AI_for_Life_Science-blue.svg)](https://www.aicompetition-pz.com/)
 [![Category](https://img.shields.io/badge/Category-End--to--End_System-success.svg)](#)
+[![YouTube Demo](https://img.shields.io/badge/YouTube_Video-Watch_1080p-FF0000.svg?logo=youtube)](https://youtu.be/2iGEupLtVck)
 [![Kaggle GPU Notebook](https://img.shields.io/badge/Kaggle_GPU_Notebook-Rank_%231_Code-20BEFF.svg?logo=kaggle)](https://www.kaggle.com/code/simonmarc/synaptwin-ooc-ai-neural-organ-on-chip-suite)
 [![Kaggle Writeup](https://img.shields.io/badge/Kaggle_Discussion-Topic_%23746107-20BEFF.svg?logo=kaggle)](https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligence-for-life-scien/discussion/746107)
-[![Demo Video](https://img.shields.io/badge/Demo_Video-Full_HD_1080p-red.svg?logo=youtube)](outputs/synaptwin_demo_video.mp4)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
@@ -17,8 +17,9 @@
 
 ## 🎬 Official 1080p Demo Video Presentation
 
-A comprehensive 4.3-minute Full HD walkthrough with studio-grade neural voiceover narration and live system execution is included directly in this repository:
-* 🎥 **Direct Video File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) *(Full HD 1080p · Constant 30 FPS · 48 kHz Stereo AAC)*
+A comprehensive 4.3-minute Full HD walkthrough with studio-grade neural voiceover narration and live system execution is available on YouTube and mirrored in this repository:
+* 🔴 **Official YouTube Video:** [https://youtu.be/2iGEupLtVck](https://youtu.be/2iGEupLtVck) *(Full HD 1080p Walkthrough)*
+* 🎥 **GitHub Mirror File:** [`outputs/synaptwin_demo_video.mp4`](outputs/synaptwin_demo_video.mp4) *(Constant 30 FPS · 48 kHz Stereo AAC)*
 * ⬇️ **Raw Download / Stream Link:** [Download `synaptwin_demo_video.mp4`](https://github.com/skamy64-ux/synaptwin-ooc/raw/main/outputs/synaptwin_demo_video.mp4)
 * 📜 **Storyboard & Full Script:** [`DEMO_VIDEO_STORYBOARD.md`](DEMO_VIDEO_STORYBOARD.md)
 * 🛠️ **Automated Video Generation Source:** [`scripts/make_demo_video.py`](scripts/make_demo_video.py)
